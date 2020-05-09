@@ -52,7 +52,7 @@ pages:
       content: Please rate the test files from 0-100 on how similar the horizontal position of the sound source is to the available reference.
       showWaveform: true
       enableLooping: true
-      reference: configs/resources/audio/LocAcc_Horiz_Cube/At_Speaker/locAcc_cube_between_ref.wav
+      reference: configs/resources/audio/LocAcc_Horiz_Cube/Between_Speaker/locAcc_cube_between_ref.wav
       createAnchor35: false
       createAnchor70: false
       stimuli:
